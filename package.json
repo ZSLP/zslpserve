@@ -14,7 +14,7 @@
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "express-rate-limit": "^3.3.2",
-    "fountainhead-core": "0.0.12",
+    "fountainhead-core": "ZSLP/fountainhead-core#6670f507e102979ba53b554ed82c265d23bb963c",
     "ip": "^1.1.5",
     "p-queue": "^3.0.0"
   }
